@@ -66,5 +66,5 @@ function showhistory(x){
     }
     setTimeout(() => {
         document.getElementById("screen").innerHTML=""
-    }, 2000);
+    }, 3000);
 }
